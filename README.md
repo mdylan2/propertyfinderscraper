@@ -103,18 +103,6 @@ heroku scale worker=1
 heroku open
 ```
 
-## Contributing
+## Acknowledgements
 
-If something is unclear or you find a bug feel free to submit an issue or pull
-request.
-
-[dash-rq-demo]: https://dash-rq-demo.herokuapp.com/
-[deploy-endpoint]: https://heroku.com/deploy?template=https://github.com/tcbegley/dash-rq-demo
-[heroku]: https://www.heroku.com/
-[heroku-cli]: https://devcenter.heroku.com/articles/heroku-cli
-[pg-server]: https://www.postgresql.org/docs/9.1/server-start.html
-[postgres]: https://www.postgresql.org/
-[python36]: https://www.python.org/
-[redis]: https://redis.io/
-[redis-server]: https://redis.io/topics/quickstart#starting-redis
-[rq-docs]: https://python-rq.org/
+I would like to thank [tcbegley](https://github.com/tcbegley) for the awesome GitHub repo on async callbacks in Dash.
