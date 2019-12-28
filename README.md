@@ -1,4 +1,4 @@
-# README
+# Property Finder Scraper
 
 This repository demonstrates use of Redis and RQ for asynchronously executing
 long running tasks in Plotly Dash. The task the app executes is meaningless, it
