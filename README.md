@@ -1,4 +1,7 @@
 # Property Finder Scraper
+
+(READ ME STILL IN PROGRESS)
+<!--
 ## Description
 This repository contains the Python code for a web scraper that  that allows users to find new strains of cannabis based on current strains they like or flavor/physiological preferences.
 
@@ -141,3 +144,5 @@ heroku open
 ## Acknowledgements
 
 I would like to thank [tcbegley](https://github.com/tcbegley) for the awesome GitHub repo on async callbacks in Dash.
+
+-->
