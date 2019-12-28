@@ -1,4 +1,39 @@
 # Property Finder Scraper
+## Description
+This repository contains the Python code for a web scraper that  that allows users to find new strains of cannabis based on current strains they like or flavor/physiological preferences.
+
+The fully functional website can be found at [www.cannarec.herokuapp.com](https://cannarec.herokuapp.com).
+
+I presented this app as my final project for a coding bootcamp I attended. The slide deck for my presentation has been included in the repository.
+
+## Packages Used
+- Plotly Dash
+- Pandas
+- NumPy
+
+## Files
+Here's a list of important files/folders in the directory:
+- `app.py`: Contains the code to launch the application
+- `view.py`: Contains the HTML layouts used in the Dash application
+- `assets`: Contains the CSS, Javascript and other images used in the website
+- `Presentation (CannaRec)`: Contains a presentation I prepared 
+
+## Usage
+In order to use the application, do the following:
+1) Clone the repo
+```
+git clone https://github.com/mdylan2/cannarec.git
+```
+2) Navigate into the folder, set up a virtual environment and activate it
+3) Once you've activated the virtual environment, install the requirements
+```
+pip install -r requirements.txt
+```
+4) Launch the application
+```
+python app.py
+```
+
 
 This repository demonstrates use of Redis and RQ for asynchronously executing
 long running tasks in Plotly Dash. The task the app executes is meaningless, it
