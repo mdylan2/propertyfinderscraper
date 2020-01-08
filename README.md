@@ -17,7 +17,7 @@ The fully functional website can be found [here](https://propertyfinderscraper.h
 - PostgreSQL
 
 ## Running Locally or Deploying
-The app in this repository is fully deployable on Heroku or can be run locally as well. The app was adapted from (tcbegley's)[https://github.com/tcbegley] repo (dash-rq-demo)[https://github.com/tcbegley/dash-rq-demo]. Please visit his repo for more details on deployment.
+The app in this repository is fully deployable on Heroku or can be run locally as well. The app was adapted from [tcbegley's](https://github.com/tcbegley) repo [dash-rq-demo](https://github.com/tcbegley/dash-rq-demo). Please visit his repo for more details on deployment.
 
 You will need Postgres, a Redis server and/or Heroku (if deploying to Heroku or running Heroku local).
 
