@@ -29,7 +29,14 @@ The app in this repository is fully deployable on Heroku or can be run locally a
 All you will need is a postgres and redis server. 
 
 ## Interface
+### `Selecting Input Parameters and Progress Bar`
+![Select](gifs/1.gif)
 
+### `Editing Data Table and Downloading Excel`
+![Download](gifs/2.gif)
 
 ## Acknowledgements
 I would like to thank [tcbegley](https://github.com/tcbegley) for his amazing work on async updates in Dash!
+
+## Questions/Contributions/Future Work
+I'm very open to any recommendations or contributions! Please reach out to me on Github if you would like to chat.
