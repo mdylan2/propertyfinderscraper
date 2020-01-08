@@ -1,8 +1,8 @@
 # Property Finder Scraper
 ## Description
-This repository contains the Python code for a web scraper that takes in user input parameters and returns scraped data from (Dubai's Property Finder Website)[www.propertyfinder.ae] as a downloadeable excel file.
+This repository contains the Python code for a web scraper that takes in user input parameters and returns scraped data from this [Property Finder Website](www.propertyfinder.ae) as a downloadeable excel file.
 
-The fully functional website can be found at [https://propertyfinderscraper.herokuapp.com/](https://propertyfinderscraper.herokuapp.com/).
+The fully functional website can be found [here](https://propertyfinderscraper.herokuapp.com/).
 
 ## Packages Used
 ### Packages:
